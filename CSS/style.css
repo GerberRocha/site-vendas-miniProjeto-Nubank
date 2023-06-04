@@ -1,0 +1,100 @@
+html{
+    scroll-behavior: smooth;
+}
+.row-cols-2l{
+    max-width: 200px;
+    max-height: 200px;
+}
+.carousel-caption h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 40px;
+    vertical-align: text-top;
+    text-align: center;
+      
+}
+.navbar-brand{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+    
+.nav-item {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    color: black;
+}
+   
+.quemSomos{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 13px;
+    padding: 60px;
+}
+.img-quem-somos{
+        display: block;
+ margin: 0px auto;
+    
+}
+.titulo-quem-somos {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 90px;
+    justify-content: center;
+    padding: 60px;
+ }
+ .fotos-nosso-time {
+    width: 100%; /* Define a largura da tabela como 100% */
+    table-layout: fixed; /* Define o layout da tabela como fixo */
+    
+  }
+
+  .fotos-nosso-time td {
+    width: 33.33%; /* Define a largura das células como 33.33% (uma vez que temos três células) */
+    text-align: center; /* Centraliza o conteúdo dentro das células */
+  }
+
+  .fotos-nosso-time img {
+    max-width: 100%; /* Define a largura máxima da imagem como 100% */
+    height: 150px; /* Mantém a proporção da imagem */
+    border-radius: 50%;
+  }
+.fotos-nosso-time h3{
+    font-size: 13px
+
+}
+.card-title{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 12px;
+  
+}
+.card-preco h4{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+.texto-logo-footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 90px;
+    color: white;
+
+}
+.footer-content{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 13px;
+    color: white;
+    padding: 80px;
+}
+.imagem-footer{
+    display: block;
+ margin: 0px auto;
+}
